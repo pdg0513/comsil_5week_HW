@@ -3,13 +3,5 @@
 void main()
 {
 	printf("Hello World!");
-
 	printf("Hi i am branch1!");
-
-
-
-
-
-
-
 }
