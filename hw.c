@@ -2,6 +2,5 @@
 
 void main()
 {
-	printf("Hello World!");
-	printf("Hi i am branch1!");
+	printf("Hello World! Branch 1");
 }
