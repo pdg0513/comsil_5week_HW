@@ -4,3 +4,5 @@ void main
 {
 	printf("hello world");
 }
+
+void branch1(){}
