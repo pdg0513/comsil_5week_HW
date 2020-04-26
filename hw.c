@@ -3,4 +3,7 @@
 void main()
 {
 	printf("Hello World!");
+	printf("Hello branch1!");
+	printf("Hello branch2!");
+	printf("Hello branch3!");
 }
