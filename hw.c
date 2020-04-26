@@ -1,9 +1,12 @@
 #include <stdio.h>
 
-void main()
+void main
 {
-	printf("Hello World!");
-	printf("Hello branch1!");
-	printf("Hello branch2!");
-	printf("hello branch3!");
+	printf("hello world");
 }
+
+void branch1(){}
+
+void branch2(){}
+
+void branch3(){}
